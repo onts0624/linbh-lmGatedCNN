@@ -1,3 +1,5 @@
 # linbh-lmGatedCNN
 
-代码冗余比较多，后面会重新整理代码，目前只是把可以使用的代码上传而已
+使用训练语料：1 Billion Word Language Model Benchmark http://www.statmt.org/lm-benchmark/
+
+
